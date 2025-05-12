@@ -127,5 +127,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 For any queries or suggestions, please reach out:
-- Email: [Your Email]
+- Email: [raidivyansh899@gmail.com]
 - GitHub: [@divyansh-cyber](https://github.com/divyansh-cyber) 
